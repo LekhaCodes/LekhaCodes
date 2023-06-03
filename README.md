@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Lekha!
-- 👀 I’m interested in Cognitive Sciences and Machine Learning
-- 🌱 I’m currently learning Pytorch and Tensorflow
+- 👀 I’m interested in Cognitive Software, Development and Machine Learning
+- 🌱 I’m currently learning ML and web dev
 
 <p align="center">
 <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=LekhaCodes&theme=default"/>
